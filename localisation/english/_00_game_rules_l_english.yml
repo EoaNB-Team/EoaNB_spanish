@@ -1,0 +1,57 @@
+﻿l_english:
+
+######## CUSTOM COUNTRY PATHS (By Maxty) ########
+
+### EUROPE ###
+
+RULE_GROUP_EOANB_RULES_EUROPE:0 "Caminos Nacionales - Europa"
+
+## France
+
+# Orsini Affair - Emperor's fate (Alive or Dead)
+
+FRA_EMPEROR_FATE: "£GFX_EOANB_game_rule_flag_FRA   Asunto Orsini - Destino del Emperador"
+RULE_OPTION_FRA_EMPEROR_FATE_RANDOM: "Predeterminado"
+RULE_OPTION_FRA_EMPEROR_FATE_RANDOM_DESC: "Nacionalistas italianos, liderados por Felice Orsini, intentarán asesinar a Napoleón III arrojando bombas hacia la carroza del Emperador. Si el intento tiene éxito o no, quedará en manos del destino."
+RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "El Emperador sobrevive"
+RULE_OPTION_FRA_EMPEROR_FATE_ALIVE_DESC: "El intento de Orsini fracasará, lo que permitirá la continuidad del gobierno de Napoleón III en Francia."
+RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "El Emperador es asesinado"
+RULE_OPTION_FRA_EMPEROR_FATE_DEAD_DESC: "El intento de Orsini tendrá éxito, y el Emperador perecerá tras caer una bomba junto a su carroza. Con el Imperio Francés en caos, se establecerá una regencia temporal y se implementarán algunas reformas liberales hasta que se elija un nuevo líder."
+
+## Sardinia-Piedmont
+
+# Risorgimento - Austro-Sardinian War - Russian Assistance
+
+PIE_RISORGIMENTO_RUSSIA: "£GFX_EOANB_game_rule_flag_PIE   £GFX_EOANB_game_rule_flag_RUS   Encuentro Ruso-Sardo"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM: "Predeterminado"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM_DESC: "La apuesta de Cerdeña-Piamonte por la guerra contra el Reino Lombardo-Veneto y Austria implicará pedir asistencia a Rusia. El nivel de asistencia que Rusia proporcione ya sea una alianza, asistencia o solo una garantía de neutralidad— se decidirá aleatoriamente o según otras configuraciones."
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE: "Alianza por Galitzia"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE_DESC: "La próxima guerra se ve como una oportunidad para arrebatar Galitzia a Austria, remediando la humillación sufrida durante la Guerra de Crimea. Por lo tanto, Rusia se unirá a la guerra del lado de Cerdeña-Piamonte, reconociéndola como la nación legítima para unificar Italia.\n\n§RRequiere:§!\n§YCerdeña-Piamonte NO debe estar ya en una alianza con Francia.§!"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE: "Asistencia Rusa"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE_DESC: "El próximo conflicto se ve como una oportunidad para castigar a Austria por su traición durante la Guerra de Crimea. El Imperio Ruso limitará su ayuda a colocar tropas en la frontera austriaca, distrayéndolos durante la Segunda Guerra de Independencia Italiana."
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY: "Neutralidad Rusa"
+RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY_DESC: "Sin querer involucrarse en los asuntos italianos, Rusia ofrecerá una garantía de neutralidad en la próxima guerra y no se implicará más, negándose a prestar más asistencia.\n\n§RRequiere:§!\n§YCerdeña-Piamonte ya está en una alianza con Francia.§!"
+
+## Kingdom of Württemberg
+
+# Status of Liberalism (Integrated or Suppressed)
+
+WUR_LIBERALISM_STATUS: "£GFX_EOANB_game_rule_flag_WUR   Estado del Liberalismo en Wurtemberg"
+RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM: "Predeterminado"
+RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM_DESC: "El Reino de Wurtemberg tendrá que elegir entre integrar o suprimir el liberalismo. Esta decisión se tomará aleatoriamente."
+RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS: "Suprimir el Liberalismo"
+RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Rechazando permitir su crecimiento, el Rey Guillermo se enfocará en suprimir los movimientos liberales en el país."
+RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "Integrar el Liberalismo"
+RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "Tras una cuidadosa consideración, el Rey Guillermo decidirá integrar el liberalismo en el reino."
+
+##  Montenegro
+
+# Mechanics Complexity
+
+
+
+ MNT_mechanic_complexity: "£GFX_EOANB_game_rule_flag_MNT   Montenegro Mechanics Complexity"
+ RULE_MNT_EASY_MECHANIC:  "Easy Mechanics"
+ RULE_MNT_EASY_MECHANIC_DESC: ""
+ RULE_MNT_COMPLEX_MECHANIC: "Complex Mechanics"
+ RULE_MNT_COMPLEX_MECHANIC_DESC: ""

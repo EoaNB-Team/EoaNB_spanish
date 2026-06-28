@@ -1,0 +1,91 @@
+﻿l_english:
+ STARTUP_EVENT_VERSION: "§C v. 0.5§!"
+ STARTUP_EVENT_DESCRIPTION: "[STARTUP_EVENT_SCRIPTED]"
+ STARTUP_EVENT_DESCRIPTION_DEFAULT: "§CBienvenido a End of a New Beginnig Mod - Version de Steam!§!\n \n§gEnd of a New Beginning§! es un proyecto de conversion total que apunta a simular la era entre la Rebelion Cipaya en la India y el apogeo del imperialismo en 1930 via Hearts of Iron IV.  §gEoaNB§! no tiene la intencion de ser jugado como un pintor de mapas basado en el combate, sino que se centra en los aspectos politico, economico y en los cambios en la sociedad que remodelaron la experiencia humana durante la Era Victoriana. §gEoaNB§! esta en desarrollo intensivo. Los usuarios con dispositivos de gama baja pueden sufrir §Rlag y crasheos§!.\n \n§MActualizacion :§! 0.5 Sanguis in Harenis\nSanguis in Harenis trae un Oriente Medio, el Norte de Africa y a pequeñas naciones actualizaciones, nuevo contenido y un retabajo. Tambien implementa un sistema de economia con un retrabajo a las leyes, un retrabajo al sistema de doctrinas y un sistema de diseñador de artilleria. §GPara tener una lista detallada de los cambios, visita nuestra comunidad de Discord§!"
+ STARTUP_EVENT_DESCRIPTION_SETTINGS: "§CConfiguraciones ajustables durante el juego:0§!\n \n    §YDefiniciones y mecanicas§!\n \n \n \n   §YContenido§!\n \n \n \n   §YOptmizacion§!"
+ STARTUP_EVENT_DESCRIPTION_COMMUNITY: "§CComunidad y creditos:§!\n§gEnd of a New Beginning§! es un mod de fuente abierta y una comunidad. Siempre buscamos nuevos contribuyentes y mas gente para la comunidad. Nos gustaria darle un gran abrazo lleno de amor a nestro §RPatreon§!: §gJuggels, August Helmke, iCrusade, Jakob Brommersma, Ori0n, Thib, AoR-Oreo, Prussian Glory, Stian Karlsen, Carlos Trevino, Michael Fuest, HoloGamer, Quentin Nicolas, Professor Gabriel, Jakop Dalunde, Aaron Redd, Acciaio, Lance Lumpkins, DudeFromTexas, Ivarson, Leixi, Tyler Kolbe, Destro71, Daniel Banuelos, Harry Yan, Master Mochi, Ezzy, Stephone S, Skull One, Lumina, GSuer, Gavin Wener, Tom Schuelke, Cody Black, Navear, Fordie91, MD Bagel, Oguzkan Batyr, JakeFishMaui, Davin Adams, Jahason105, Alexander Sapic, Filipek Flaczynski, MasterQC, Alviun, ShowMaster, Lachlan Gretgrix, Clammed Oyster, Zhang Qi, John Hanni, Crimsomon, Lasse Venner, Darcy Clutton, Claudio Cavalieri, Aviel Fartuk. Michael Wolf, David Sirkin, Harry Chambers, Alexander Johnson, Norraya y AltHistoryConjectures.§!\n§RLideres de desarrollo§!: §gGsbr, DEM0, Syrexx, Aquamarine, Kuba§!\n§GLideres previos§!: §gMakkkkus, Funkyman, Toadsess, TPS-Geronam, AtomicFalco, Powerblo, Tomvand, Londinium, Minn, Silver, StrikerVX4, PresidentStorm, Filippos, Hogthra, BlueFox, ClassyAmoeba, Jen, Rolf, HolyDoggo, Neo, ChrisSGD, EnzoC9083, Kenhel, Aytarel, Nova and Seaborg. §!\n\nCreditos a §gman§!, el creador de los §YIconos de modificacion§! mod en Steam, cuyos iconos utilizamos con gusto."
+
+ ##§!\n\n        Gracias por jugar nuestra version en desarrollo, esperamos que hayas disfrutado la experiencia - §CEquipo de EoaNB§!"##
+
+ #§CComunidad y creditos:§! (wip)\n\n§OLideres de desarrollo en equipo —§! Imperialism, ChrisSGD, TPS-Geronam, Kuba, Garion132, Coggernaut, Vanadium, Energywelder, EnzoC & Lancer2201 (§CAntiguos jefes —§! AtomicFalco, Powerblo, tomvand)\n (§OAntiguos lideres de subequipo —§! Londinium, AtomicFalco, Minn, Silver, StrikerVX4, PresidentStorm, Filippos, Hogthra, BlueFox, ClassyAmoeba, Jen, Rolf, & Holydoggo)\nIncontables otros investigadores, ayudantes, asistentes de code, artistas y mas de nuesto server de Discord y de otra parte. No podriamos haber creado el mod sin ustedes!\n\nNos gustaria darle un gran abrazo lleno de amor a nuestros colaboradores en §RPatreon§!:\n Jen, Alex, David Sirkin, Michael Wolf, Aviel Fartuk, Harry Chambers, BlueFox098, Darcy Clutton, Lasse Venner Jensen, Crimsomon, John Hanni, Zhang Qi, Clammed Oyster, Lachlan Gretgrix, Showmaster LP, Alviun, Alexander Sapic, Jason, Lui, Davin Adams, Oğuzkan Batyr, Jake Fish, theRonBurgundy, James, Filipek Flaczyńsk, Prince Illis, Cody Black, Gavin Werner, Tom Schuelke y MasterQG."
+ #STARTUP_EVENT_DESCRIPTION_DEFAULT: "§CBienvenido a End of a New Beginning Mod!§!\n \n§gEnd of a New Beginning§! es un proyecto de conversion total que apunta a simular 200 años de historia mundial via Hearts of Iron IV. A diferencia de otros mods, §gEoaNB§! no tiene la intencion de ser jugado como un pintor de mapas basado en el combate, sino que se centra en los aspectos politico, economico y en los cambios en la sociedad que remodelaron la experiencia humana de la epoca. §gEoaNB§! sigue en desarrollo intensivo. Usuarios con dispositivos de baja gama pueden sufrir §Rlag y crasheos§!.\n \n§MResumen de actualizacion:§! Beta 0.2.7 Ver-Tersus\n   Parche de compatibilidad para HOI-4 §Y1.11 Actualizacion Barbarossa§! (con las adiciones de la expansion No Step Back). Revision del arbol tecnologico, la progresion de las eras y la interfaz. Los trenes y los suministros fueron retrabajados. Modos de mapa. Contenido nuevo para Estados Unidos, Japon, España, Dinamarca y mas. Muchos toques a la optimizacion. §GPara consultar una lista completa visita nuestra pagina de Steam o Discord.§!\n\n        Gracias por jugar y esperamos que disfrutes tu experiencia - §CEquipo de EoaNB§!"
+
+
+
+
+ #§YBienvenido a End of a New Beginning!§!\n§g !!! Por favor lee la wiki en juego (el \"?\" en la esquina superior derecha) antes de jugar !!!§!\n EoaNB es un mod de conversion total que apunta a simular a la historia mundial de 1857 en adelante. Seguimos en §RAlpha Temprana§!, asi que debes esperar contenido incompleto y/o una variedad de bugs. De todos modos, el equipo siempre esta trabajando para pulir y mejorar el mod!\n \n Si estas interasado en estar al tanto de las actualizaciones unete a nuestro §GServer de Discord§! y checa nuestro §GGitHub de desarrollo§!:\nPor favor tenga en cuenta que §Ygente con pantallas pequeñas§! pueden experimentar problemas con la interfaz de investigacion en el que no se muestran todas las carpetas. Esto se puede evitar en tu configuracion reduciendo la escala del UI. Para verificar que puedes ver todas las carpetas revisa si la carpeta mas a la derecha se llama \"Proyectos especiales\". Si es asi, todas las carpetas estas disponibles.\n\nUsuarios con computadoras de baja gama pueden sufrir §Rlag o incluso crasheos§! cuando se juega a 5 de velocidad (velocidad maxima). El lag puede ser contrarestado usando §Y\"Unir Africa\"§! opcion en el meno de opciones, mientras que, si se te crashea, puedes intentar jugar en la velocidad 4.\n\nGracias por jugar nuestro mod, esperamos que lo disfrutes!\n — §WEquipo de EoaNB§!"
+ STARTUP_EVENT_PLAY: "£occupation_costs  Entrar a EoaNB"
+ STARTUP_EVENT_SUMMARY: "£research_icon Detalles"
+ STARTUP_EVENT_SETTINGS: "£repairing  Configuraciones en juego"
+ STARTUP_EVENT_COMMUNITY: "£pops_texticon  Nuestra comunidad"
+ STARTUP_EVENT_PLAY_tt: "Presiona para §YJugar§!"
+ STARTUP_EVENT_SUMMARY_tt: "Mirar §YDetalles de Actualizacion§!"
+ STARTUP_EVENT_SETTINGS_tt: "Mirar §YConfiguraciones en Juego§!"
+ STARTUP_EVENT_COMMUNITY_tt: "Mirar §YCreditos y Comunidad§!"
+ STARTUP_EVENT_DISCORD: "Unirse a la Comunida de Discord de EoaNB"
+#  STARTUP_EVENT_PROGRESS_tt: "[!startup_event_button_summary_click]"
+#  STARTUP_EVENT_CREDITS_tt: "[!startup_event_button_credits_click]"
+
+ GAMERULE_ECONOMY: "Economia - [GetRuleEconomy]"
+ GAMERULE_AGENCY: "Agencias - [GetRuleAgency]"
+ GAMERULE_TRIBAL: "Tribus - [GetRuleTribal]"
+ GAMERULE_REBEL: "Rebeliones - [GetRuleRebel]"
+ GAMERULE_PANDEMIC: "Pandemias - [GetRulePandemic]"
+ GAMERULE_CONTROVERSIAL: "Controversial - [GetRuleControversial]"
+ GAMERULE_EASTER: "Easter Eggs - [GetRuleEaster]"
+ GAMERULE_MUSIC: "Musica - [GetRuleMusic]"
+ GAMERULE_INTERFACE: "Interfaz - [GetRuleInterface]"
+ GAMERULE_UNITE_AFRICA: "Unir[GetAfricaUnited] Africa"
+ GAMERULE_LOCK: "£locked Bloquear[GetRuleLocked] Configuraciones"
+
+ STARTUP_EVENT_ECONOMY_tt: "Ajustes de Automatizacion Economica"
+ STARTUP_EVENT_AGENCY_tt: "§YAgencia de Inteligencia§! Configuracion del Juego\n \n§OExpansion Requerida:§! La Resistance"
+ STARTUP_EVENT_TRIBAL_tt: "§YMecanicas de Tribu Imperial§! Configuracion del Juego\n \n§OExpansion Recomendada:§! Together for Victory"
+ STARTUP_EVENT_REBEL_tt: "§YResistencia y rebeliones§! Configuracion del Juego\n \n§OExpansion Recomendada:§! La Resistance"
+ STARTUP_EVENT_PANDEMIC_tt: "§YMecanicas de pandemia§! Configuracion del Juego"
+ STARTUP_EVENT_CONTROVERSIAL_tt: "§YControversial§! Configuracion del Juego"
+ STARTUP_EVENT_EASTER_tt: "§YContenido de Easter Egg§! Configuracion del Juego"
+ STARTUP_EVENT_MUSIC_tt: "§YMusica Personalizada§! - Configuracion del Juego\n \n§OConfiguraciones Recomendadas para Creadores de Contenido:§! Deshabilitada"
+ STARTUP_EVENT_UNITE_AFRICA_tt: "§YUnir Africa§! Configuracion del Juego"
+ STARTUP_EVENT_LOCK_tt: "§RBloquear Configuraciones de campaña§!\n \nEsto bloqueara §Ypermanentemente§! las configuraciones en juego durante la campaña. (Util para partidas multijugador)[GetRuleLockedDebug]"
+ STARTUP_EVENT_LOCK_tt1: "\n \n§YComando en la Consola para Desbloquear las Configuraciones en Juego:§! event eoanb_gamerules.11"
+
+ STARTUP_EVENT_GAMERULE_DISABLED: "§RDeshabiltado§!"
+ STARTUP_EVENT_GAMERULE_ENABLED: "§GHabilitado§!"
+ STARTUP_EVENT_GAMERULE_UNDER_DEVELOPMENT: "§REn Desarrollo§!"
+
+# Gamerule Events
+ eoanb_gamerules.1.t: "Configuraciones del Sistema Economico"
+ eoanb_gamerules.1.d: "§REsta funcion esta diseñada para la actualizacion Ars Bellica y esta en desarrollo.§!\n \nEstatus Actual: [GetRuleEconomy]"
+ eoanb_gamerules.1.a: "Habilitar"
+ eoanb_gamerules.1.b: "Deshabilitar"
+
+ eoanb_gamerules.2.t: "Configuraciones de la Agencia de Inteligencia"
+ eoanb_gamerules.2.d: "Estatus Actual: [GetRuleAgency]"
+
+ eoanb_gamerules.3.t: "Configuraciones de Mecanicas Tribales"
+ eoanb_gamerules.3.d: "Estatus Actual: [GetRuleTribal]"
+
+ eoanb_gamerules.4.t: "Configuraciones de Rebeliones y Resistencia"
+ eoanb_gamerules.4.d: "§REsta funcion esta diseñada para la actualizacion Ars Bellica y esta en desarrollo.§!\n \nEstatus Actual: [GetRuleRebel]"
+
+ eoanb_gamerules.5.t: "Configuraciones del Contenido de Pandemias"
+ eoanb_gamerules.5.d: "§RREsta funcion esta diseñada para la actualizacion Ars Bellica y esta en desarrollo.§!\n \nEstatus Actual: [GetRulePandemic]"
+
+ eoanb_gamerules.6.t: "Configuraciones de Contenido Controversial"
+ eoanb_gamerules.6.d: "Eventos y otro contenido que se puede resultar ser controversial y no recomendadas para todas las audencias.\n \nEstatus Actual: [GetRuleControversial]"
+
+ eoanb_gamerules.7.t: "Configuraciones de Contenido de Easter Egg"
+ eoanb_gamerules.7.d: "Eventos y otro contenido como bromas divertidas hechos por los miembros de la comunidad de EoaNB.\n \nEstatus Actual: [GetRuleEaster]"
+
+ eoanb_gamerules.8.t: "Configuraciones de Musica Personalizada"
+ eoanb_gamerules.8.d: "Musica personalizada añadida a la musica Vanilla de HOi4. Algunas musicas pueden tener copyright, usese bajo su propio riesgo.\n \nEstatus Actual: [GetRuleMusic]"
+
+ eoanb_gamerules.9.t: "Configuraciones de Actualizaciones de interfaz"
+ eoanb_gamerules.9.d: "Estatus Actual: [GetRuleInterface]"
+
+ eoanb_gamerules.10.t: "Configuraciones de Unir Africa"
+ eoanb_gamerules.10.d: "Una configuracion para el inicio en 1857, quitando muchas naciones tribales africanas  del mapa."
+ eoanb_gamerules.10.a: "Unir Africa"
+ eoanb_gamerules.10.a_tt: "§RUnir las tribus africanas§!\n \nEsta decision §Yquitara 150 naciones del mapa en Africa§!. Si eres una de esas naciones seras anexado."
+ eoanb_gamerules.10.b: "Olvidalo."

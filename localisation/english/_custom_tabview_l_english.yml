@@ -1,0 +1,4 @@
+﻿l_english:
+ ###TOOLTIPS###
+ TOPBAR_SWITCH_PAGE_TOOLTIP: "§YCambiar página§!\nCambia la página de la vista de pestañas a la siguiente."
+ CIVILIAN_FACTORIES_OCCUPATION_STATUS: "Fábricas civiles de otras fuentes: §Y$COUNT$§!"

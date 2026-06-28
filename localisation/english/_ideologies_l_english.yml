@@ -1,0 +1,365 @@
+﻿l_english:
+ # This localisation folder is explicitly for Ideology, Subideology, Social Reforms and Government Type Descriptions
+ # Please keep this file clean and formatted correctly or I will commit the next Nanjing -V
+
+ # ORDERING:
+ # ideology
+ #   sub_ideology
+ #   sub_ideology
+
+ # DOCUMENTATION:
+ # ideology - Ideology's Adjective (ex: Democratic)
+ # ideology_noun - Ideology's Pronoun (ex: Democracy)
+ # ideology_desc - Ideology's Description (ex: Democratic Regime)
+ # ideology_drift - Ideology Drift Tooltip (ex: Daily Democratic Support)
+ # ideology_acceptance - Ideology Acceptance (ex: Acceptance of Democracy)
+      
+# Radical Socialism
+ ideology_radical_socialism: "Socialista Radical"
+ ideology_radical_socialism_noun: "Socialismo Radical"
+ ideology_radical_socialism_desc: "Gobierno Socialista Radical"
+ ideology_radical_socialism_drift: "Apoyo diario al Socialismo Radical"
+ ideology_radical_socialism_acceptance: "Aceptacion al Socialismo Radical"
+  # Marxism
+    marxism: "Marxista"
+    marxism_noun: "Marxismo"
+    marxism_desc: "[marxism_desc_scripted]"
+    marxism_loc_normal: "Las teorias politica y economica de Karl Marx y Friederich Engels, que mas tarde fueron desarrolladas por sus seguidores, formaron las bases para la teoria y la practica del comunismo."
+    marxism_loc_funny: "El socialismo es cuando el gobierno hace cosas. Mientras mas socialismo mas cosas hace, y si hace un monton de cosas mas es ¡COMUNISMO!"
+  # Leninism
+    leninism: "Leninista"
+    leninism_noun: "Leninismo"
+    leninism_desc: "[leninism_desc_scripted]"
+    leninism_loc_normal: "El leninismo es una politica ideologica desarrollada por el Ruso Revolucionario Marxsita Vladimir Lenin, que propuso el establecimiento de la dictarura del proletariado, liderada por un partido vanguardista revolucionario, fue el preludio del establecimiento del comunismo."
+    leninism_loc_funny: "El Leninismo es el Marxismo cuando hace muchisisimas cosas."
+  # Maoism
+    maoism: "Maoista"
+    maoism_noun: "Maoismo"
+    maoism_desc: "[maoism_desc_scripted]"
+    maoism_loc_normal: "Maoismo o el pensamiento de Mao Zedong, es una vertiente del Marxismo-Leninismo que desarrollo Mao Zedong al darse cuenta que la revolucion socialista para desarrollar la agricultura, para industrial la sociedad pre-industrial de la Republica de China, que mas tarde se convertiria en la Republica Popular China."
+    maoism_loc_funny: "El Maoismo es cuando el gobierno hace cosas pero en chino."
+  # Stalinism
+    stalinism: "Estalinista"
+    stalinism_noun: "Estalinismo"
+    stalinism_desc: "[stalinism_desc_scripted]"
+    stalinism_loc_normal: "EL Estalinismo esta basado en el Marxismo-Leninismo que anima a la creacion de un estado unipartidista, una rapida industralizacion, la teoria del socialismo en un unico pais, la colectivizacion de la agricultura, la intensificacion de la lucha de clases, el culto a la personalidad, y la subordinacion de los intereses de los partidos comunistas extranjeros hacia un solo pais comunista vanguardista lider, que guia la revolucion comunista."
+    stalinism_loc_funny: "El Estalinismo es el Leninismo cuando el gobierno hace demasiadas cosas."
+  # Trotskyism
+    trotskyism: "Trotskista"
+    trotskyism_noun: "Trotskismo"
+    trotskyism_desc: "[trotskyism_desc_scripted]"
+    trotskyism_loc_normal: "El Trotskismo cree que mientras siga existiendo el capitalismo el comunismo no puede existir. El Trotskismo aboga por una revolucio permanente en el mundo entero."
+    trotskyism_loc_funny: "El Trotskismo es cuando el gobierno cosas que nunca parararan."
+  # Anti Revisionism
+    anti_revisionism: "Antirrevisionista"
+    anti_revisionism_noun: "Antirrevisionismo"
+    anti_revisionism_desc: "[anti_revisionism_desc_scripted]"
+    anti_revisionism_loc_normal: "El Antirrevisionismo es una definicion fluida del comunismo que cambia segun el lugar y la situacion, algunos Antirrevisionistas se oponen a algunas ramas del estalinismo, optando por adherirse al Marxismo Ortodoxo, algo que es consistente en todas las ramas del revisionismo es que miran las otras ramas del comunismo que consideran erroneas como una amenaza mayor que el capitalismo."
+    anti_revisionism_loc_funny: "El Antirrevisionismo es cuando el gobierno hace cosas pero no les gusta como otros gobiernos haces sus cosas."
+  # Bernstein Marxism
+    bernstein: "Marxista de Bernstein"
+    bernstein_noun: "Marxismo de Bernstein"
+    bernstein_desc: "[bernstein_desc_scripted]"
+    bernstein_loc_normal: "El Marxismo de Bernstein es una escuela de pensamiento marxista que se opone a la idea de la necesidad de una revolucion violenta para traer la utopia marxista. Por el contrario es mas practico y es mas exitoso tratando de llevar la revolucion de manera pacifica y democratica."
+    bernstein_loc_funny: "EL Marxismo de Bernstein es cuando el gobierno hace cosas democraticamente."
+  # Kongsi
+    kongsi: "Kongsi"
+    kongsi_noun: "Kongsi"
+    kongsi_desc: "Kongsi es una filosofia no occidental que representa una administracion de algo que es de interes colectivo o comun entre las comunidades constituyentes."
+  # Syndicalism
+    syndicalism: "Sindicalista"
+    syndicalism_noun: "Sindicalismo"
+    syndicalism_desc: "[syndicalism_desc_scripted]"
+    syndicalism_loc_normal: "Es un movimiento para transferir el control de los medios de produccion y distribucion hacia los sindicatos de los trabajadores."
+    syndicalism_loc_funny: "El unionismo es cuando las uniones hacen cosas. Mientras mas unionismo, mas cosas hacen. Y cuando hacen mas cosas es ¡SINDICALISMO!
+  # Owenism
+    owensim: "Owenismo"
+    owensim_desc: "[owenism_desc_scripted]"
+    owenism_loc_normal: "El Owenismo es una filosafia socialista utopica  del siglo XIX por el reformador socialista Robert Owen y sus seguidores y sucesores, quienes fueron conocidos como Owenitas. El owenismo pretendia una reforma radical de la sociedad y se considera precursor del movimiento cooperativo."
+    owenism_loc_funny: "El Owenismo es cuando el gobierno hace cosas pero un tipo llamado Owen hace... No tengo ni idea."
+  # Religious Socialism
+    religious_social: "[GetNationalReligion1] Socialista"
+    religious_social_noun: "Socialista Religioso"
+    religious_social_desc: "[religious_social_desc_scripted]"
+    religious_social_loc_normal: "El Socialismo Religioso es un tipo de socialismo basado en los valores religiosos que a menudo priorizan en la comunidad y la igualdad, muchas sectas religiosas se basaron en el estilo de vida e ideleogia, creencias y principios de beneficio mutuo basado en los principios del socialismo."
+    religious_social_loc_funny: "El Socialismo Religioso es cuando la iglesia hace cosas. Cuanto mas Socialismo religioso, mas cosas hace, y cuando hace muchas cosas es ¡COMUNISMO RELIGIOSO!"
+  # Democratic Socialism
+    democratic_socialism: "Socialista Democratico"
+    democratic_socialism_noun: "Socialismo Democratico"
+    democratic_socialism_desc: "El Socialismo Democratico es una filosofia politica que apoya a la politica democratica dentro de una economia propia, con un enfasis en particular en la democracia economica, democracia en el lugar de trabajo y la autogestion de los trabajadores dentro de una economia socialista de mercado o alguna forma de economia socialista planificada descentralizada."
+  # Lincolnism
+    lincolnism: "Lincolnista"
+    lincolnism_noun: "Lincolnismo"
+    lincolnism_desc: "El Lincolnismo es una filosofia politica basada sobre la economia socialista, y la fuerte dedicacion estadounidense a los principios de libertad. Prioriza ideales de igualdad racial mas que cualquier otra forma de socialsimo y favorece los gobiernos centrales fuertes y rechaza la idea de un estado totalitario."
+
+# Social Egalitarianism
+ social_egalitarianism: "Igualitario Social"
+ social_egalitarianism_noun: "Igualitarismo Social"
+ social_egalitarianism_desc: "Gobierno Igualitario Social"
+ social_egalitarianism_drift: "Apoyo diario al Igualitarismo Social"
+ social_egalitarianism_acceptance: "Aceptacion al Igualitarismo Social"
+  # National Progressivism
+    national_progressive: "Progresista Nacional"
+    national_progressive_noun: "Progresismo Nacional"
+    national_progressive_desc: "El Progresismo Nacional es una filosofia politica que combina el progresismo dominante con el nacionalismo civico. Reclama reformas acorde con los ideales dominantes progresistas, pero hace hincapie, en las 3 C, de Conservacion de recursos naturales, control de empresas, y proteccion al consumidor. Tambien aboga por un ejercito fuerte, intervencion extranjera y la destruccion de la confianza."
+  # Social Liberalism
+    liberal_social: "Liberal Social"
+    liberal_social_noun: "Liberalismo Social"
+    liberal_social_desc: "El Liberalismo Social es una ideologia politica que cree que el individuo requiere un nivel de justicia social."
+  # Market Liberalism
+    market_social: "Capitalista Social"
+    market_social_noun: "Capitalismo Social"
+    market_social_desc: "El Capitalismo Social como postura politica o filosofica cuestiona la idea de que el sistema capitalista es intrinsicamente antagonico a los objetivos sociales o a una mayor igualdad economica. La esencia de la economia social de mercado es la opinion de que los mercados privados son el mecanismo de asignacion mas eficaz, pero que la produccion se maximiza mediante una gestion macroeconomica estatal solida de la economia. Las economias sociales de mercado postulan que una solida red de apoyo social para los menos pudientes mejora la produccion de capital. Al reducir la pobreza y ampliar la prosperidad a una amplia clase media, se amplia la participacion en el mercado de capitales."
+  # Republicanism
+    republicanism: "Republicanismo"
+    republicanism_desc: "El republicanismo es un termino amplio que generalmente describe el deseo de avanzar hacia la soberania popular, el aumento de la libertad y la representacion de todas las personas."
+  # Social Democracy
+    social_democracy: "Democrata Social"
+    social_democracy_noun: "Democracia Social"
+    social_democracy_desc: "La Democracia Social es una ideologia economica y un regimen politico. Los academicos la describen como la defensa de intervenciones economicas y sociales para promover la justicia social en el marco de un sistema de gobierno liberal-democratico y una economia mixta orientada al capitalismo. Los protocolos y normas utilizados para lograrlo implican un compromiso con la democracia representativa y participativa, medidas de redistribucion de la renta, regulacion de la economia en aras del interes general y disposiciones de bienestar social."
+  # Tridemism
+    tridemism: "Trimedista "
+    tridemism_noun: "Tridemismo"
+    tridemism_desc: "El Trimedismo es una filosofia politica que enfatiza la importancia del nacionalismo, democracia, y los medios de subsistencia de la gente. Especificamente el desarrollo de una nacion civica, el derrello de la gente de gobernarse a si mismos, y que el gobierno se centre en mejorar la vida de los ciudadanos mediante las politicas de bienestar."
+      
+# Centrism
+ centrism: "Conservador Liberal"
+ centrism_noun: "Conservadurismo Liberal"
+ centrism_desc: "Gobierno Conservador Liberal"
+ centrism_drift: "Apoyo diario al Conservadurismo Liberal"
+ centrism_acceptance: "Aceptacion al Conservadurismo Liberal"
+  # Market Liberal
+    market_liberal: "Liberal del Mercado"
+    market_liberal_noun: "Liberalismo de Mercado"
+    market_liberal_desc: "El Liberalismo de Mercado es una politica ideologica y rama del liberalismo que aboga por las libertades civiles bajo la ley que enfatiza en la libertad economica."
+  # Moderate Liberalism
+    moderatism: "Liberal Moderado"
+    moderatism_noun: "Liberalismo moderado"
+    moderatism_desc: "En politica, el moderadismo es una perspectiva politica o posicion especifica que involucra a aceptacion o apoyo de un equilibro entre un grado de igualdad social y un grado de igualdad social y un grado de jerarquia social, al tiempo que se opone a los cambios politicos que darian lugar a un cambio significativo de la sociedad, ya sea fuertemente a hacia la izquerda o la derecha."
+  # Conservative Liberal
+    conserv_liberal: "Conservador Liberal"
+    conserv_liberal_noun: "Conservadurismo Liberal"
+    conserv_liberal_desc: "El Conservadurismo Liberal es una variante del liberalismo, que combina los valores liberales y politicas con posturas conservadoras, o simplemente representando a la derecha del movimiento liberal."
+  # Liberal Nationalism
+    liberal_nationalism: "Nacionalista Liberal"
+    liberal_nationalism_noun: "Nacionalismo Liberal"
+    liberal_nationalism_desc: "El Nacionalismo civico, tambien conocido como Nacionalismo liberal, es una forma de nacionalismo identificada por filosofos politicos que creen en una forma inclusiva de nacionalismo que se adhiere a los valores liberales tradicionales de libertad, tolerancia, igualdad y derechos individuales. La nacion civica es una identidad politica construida en torno a una ciudadania compartida dentro del Estado. Asi, una nacion civica  no se define por la lenguao la cultura, sino por las instituciones politicas y los principios liberales que sus ciudadanos se comprometen a defender. La pertenencia a la nacion civica esta abierta a cualquiera que comparta estos valores."
+
+# Social Liberalism
+ ideology_social_liberalism: "Liberalista Social"
+ ideology_social_liberalism_noun: "Liberalismo Social"
+ ideology_social_liberalism_desc: "Gobierno Liberal Social"
+ ideology_social_liberalism_drift: "Apoyo diario al Liberalismo Social"
+ ideology_social_liberalism_acceptance: "Aceptacion al Liberalismo Social"
+  # Radical Liberalism
+    radical_liberal: "Radicalista Liberal"
+    radical_liberal_noun: "Radicalismo Liberal"
+    radical_liberal_desc: "El Radicalismo liberal es una filosofia de la Era de la Ilustracion que busca el desarrollo institucional, y especialmente una reforma cultural y educativa que permita a cada ciudadano poner en practica sus derechos liberales, usualmente promoviendo el securalismo, republicanismo y la democracia radical."
+  # Social Liberalism
+    ideology_sub_social_liberal: "Liberalista Social"
+    ideology_sub_social_liberal_noun: "Liberalismo Social"
+    ideology_sub_social_liberal_desc: "El Liberalismo Social es una filosofia politica y vertiente del liberalismo que apoya una economia de mercado regulada y la expansion de los derechos civiles y politicos. En el liberalismo social, el bien comun se considera armonico con la libertad del individuo."
+  # Third Way
+    ideology_sub_third: "Tercer Camino"
+    ideology_sub_third_noun: "Tercer Camino"
+    ideology_sub_third_desc: "El Tercer Camino es una filosofia politica y una posicion politica afin al centrismo que intenta reconciliar las politicas de derecha e izquierda defendiendo una sintesis variable de plataformas economicas de centro-derecha y centristas con algunas politicas sociales de centro-izquierda."
+  # Parliament
+    ideology_sub_parlia_repub: "Parlamentario"
+    ideology_sub_parlia_repub_noun: "Parlamentarismo"
+    ideology_sub_parlia_repub_desc: "Un sistema Parlamentario es un sistema de gobernancia democratica de un Estado donde el poder ejecutivo obtiene su legitimida democratica donde de su capacidad para ganarse la confianza del poder legislativo, usualmente un parlamento, y tambien debe rendir cuenta a dicho parlamento. En un sistema parlamentario el jefe de Estado suele ser una persona distinta del Jefe de Gobierno."
+
+# Conservativism
+ traditional_conservatism: "Conservador Tradicional"
+ traditional_conservatism_noun: "Conservadurismo Tradicional"
+ traditional_conservatism_desc: "Gobierno Conservador Tradicional"
+ traditional_conservatism_drift: "Apoyo diario al Conservadurismo Tradicional"
+ traditional_conservatism_acceptance: "Aceptacion al Conservadurismo Tradicional"
+  # Toryism
+    toryism: "Toryista"
+    toryism_noun: "Toryismo"
+    toryism_desc: "Un tory mantiene una filosofia politica, Toryismo esta basado en la version britanica del Tradicionalismo y el Conservadurismo, que defiende la supremacia del orden social tal y como a evolucionado ha traves de la historia."
+  # Federalism
+    federal: "Federalista"
+    federal_noun: "Federalismo"
+    federal_desc: "El Federalismo es el modelo de gobierno mixto o compuesto, que combina un gobierno general (El gobierno central o central) con gobiernos regionales (Gobiernos provinciales, estatales, cantonales, territoriales. u otras subunidades) en un unico sistema politico. Tambien representa la ideologia politica que lo promueve."
+    # Neoconservatism
+    neoconserv: "Neoconservador"
+    neoconserv_noun: "Neoconservadurismo"
+    neoconserv_desc: "El Neoconservadurismo es una ideologia politica caracterizada por un enfazis en el libre mercado, capitalismo e intervencionismo como politica extranjera. Tambien es tipicamente acompañada por el Conservadurismo Social."
+  # Conservatism
+    conserv: "Conservador"
+    conserv_noun: "Conservadurismo"
+    conserv_desc: "El Conservadurismo es una filosofia politica y social que promueve las instituciones sociales tradicionales en el contexto de la cultura y la civilizacion."
+  # Paleoconservativism
+    paleoconserv: "Paleoconservadurista"
+    paleoconserv_noun: "Paleoconservadurismo"
+    paleoconserv_desc: "El Paleoconservadurismo es una filosofia politica y vertiente del conservadurismo en el nuevo mundo haciendo incapie en el nacionalismo, las eticas cristianas, el regionalismo y el Conservadurismo Tradicionalista."
+  # National Conservatism
+    natconserv: "Nacionalista Conservador"
+    natconserv_noun: "Nacional Conservadurismo"
+    natconserv_desc: "El Nacional Conservadurismo es un termino politico usado primordialmente en Europa para describir a una variante del conservadurismo que se enfoca mas en los intereses nacionales que el conservadurismo estandar asi como la defensa de la identidad cultural y etnica, sin ser abiertamente nacionalista ni apoyar un planteamiento de extrema derecha."
+
+# Authoritarian Democracy
+ radical_democracy: "Periferico"
+ radical_democracy_noun: "Periferico"
+ radical_democracy_desc: "Gobierno Periferico"
+ radical_democracy_drift: "Apoyo diario Periferico"
+ radical_democracy_acceptance: "Aceptacion diaria a la diplomacia Periferica"
+  # Authoritarian Democracy
+    authoritarian_democracy: "Democratico Autoritario"
+    authoritarian_democracy_noun: "Democracia Autoritaria"
+    authoritarian_democracy_desc: "Las Democracias Autoritarias llevan a cabo elecciones para dar una imagen democraticas, pero en la practica apenas y se podrian considerar como una democracia. La falta de un verdadero proceso democratico puede deberse a la debilidad de las instituciones o a la corrupcion rampante."
+  # Reactionary
+    reactionary: "Reaccionario"
+    reactionary_desc: "Un Reaccionario es una persona que tiene opiniones politicas que favorecen un retorno al Status Quo, el estado politico anterior de la sociedad, que ellos creen que poseia caracteristicas que esten negativamente ausentes del Status Quo contemporaneo de una sociedad."
+  # Revolutionary
+    revolutionary: "Revolucionario"
+    revolutionary_noun: "Revulocionario"
+    revolutionary_desc: "Un Gobierno revolucionario es una forma provisional de gobierno entre una revolucion exitosa y la total implementacion de los ideales revolucionarios."
+  # Plutocracy
+    plutocracy: "Plutocrata"
+    plutocracy_noun: "Plutocracia"
+    plutocracy_desc: "Una Plutocracia es una sociaedad gobernada o controlada por gente de gran riqueza o ganancias."
+  # Stratocracy
+    military_goverment: "Estratocrata"
+    military_goverment_noun: "Estratocracia"
+    military_goverment_desc: "Una estratocracia es una forma de gobierno encabezada por jefes militares. Los poderes del Estado son administrados por fuerzas militares, el gobierno es legal en virtud de las leyes de la jurisdiccion de que se trate y suele estar a cargo de trabajadores militares. Los ciudadanos con servicio militar obligatorio o voluntario, o los veteranos licenciados con honores, tienen derecho a elegir o gobernar. Los poderes administrativo, judicial y/o legislativo de los militares estan respaldados por la ley, la constitucion y la sociedad. No tiene que ser necesariamente autocratico u oligarquico por naturaleza para conservar su derecho a gobernar."
+  # Military Junta
+    military_junta: "Junta"
+    military_junta_noun: "Junta Militar"
+    military_junta_desc: "Una Junta Militar es un gobierno liderado por un comite de lideres militares."
+  # Daimyo Republic
+    daimyo_republic: "Daimyo"
+    daimyo_republic_noun: "Republica Daimyo"
+    daimyo_republic_desc: "Una Republica Daimyo es una forma especializada de gobierno en [Root.GetName] donde un indivio o un consejo de señores Daimyos y sus consejeros  llevan a cabo las decisiones politicas de la nacion."
+  # Kemalism
+    kemalism: "Kemalista"
+    kemalism_noun: "Kemalismo"
+    kemalism_desc: "El Kemalismo es una ideologia basada sobre 6 pilares fundamentales; Republicanismo, Populismo, Laicismo, Reformismo, Nacionalismo y Estatismo. Especificamente, apoya a una Democracia Parlamentaria Representativa, la transferencia del poder socioeconomico al ciudadano comun, el destierro de la iglesia de los asuntos gubernamentales y viceversa, la reforma del pais para pasar de las viejas tradiciones a una era moderna, una nacion civica, y que el gobierno regule las actividades economicas del pais."
+    # Dixiecrat
+    dixiecrat: "Dixiecrata"
+    dixiecrat_noun: "Dixiecratismo"
+    dixiecrat_desc: "Los Diexiecratas son miembros del Partido Democrata que combinan las raices ideologicas de Andrew Jackson son las caracteristicas del sur estadounidense moderno. Los Dixiecratas estan a favor de una debil regulacion gubernamentel de los estados, y buscan mantener el Status Quo o volver a las leyes raciales en lo que respecta especificamente a la poblacion afroamericana."
+  
+# Autocracy
+ autocracy: "Autocratico"
+ autocracy_noun: "Autocracia"
+ autocracy_desc: "Gobierno Autocratico"
+ autocracy_drift: "Apoyo Diario Autoocratico"
+ autocracy_acceptance: "Aceptacion Autocratica"
+  # Despotism
+    despotism: "Despota"
+    despotism_noun: "Despotismo"
+    despotism_desc: "El Despotismo es una forma de absolutismo no monarquico, en el que una sola entidad gobierna con poder absoluto sobre todas los poderes y sobre toda la poblacion, sin ninguna oposicion y normalmente es un gobierno y religioso represivo."
+  # Limited Monarchy
+    constit_monarch: "Monarca Constitucional"
+    constit_monarch_noun: "Monarquia Constitucional"
+    constit_monarch_desc: "Una Monarquia Constitucional es una forma de monarquia en el que el monarca ejerce su autoridad dependiendo de lo que este estipulado o no en la constitucion. A diferencia de una monarquia absoluta, en una monarquia constitucional los monarcas estan obligados a obedecer a los limites juridicos preestablecidos."
+  # Absolutism
+    absolutism: "Monarca Absoluto"
+    absolutism_noun: "Monarquia Absoluta"
+    absolutism_desc: "Una Monarquia Absoluta es una forma de monarquia que mantiene el poder en una sola persona, sin ser limitada por las leyes, legislaturas o cualquier cosa."
+  # Bonapartism
+    bonapartism: "Bonapartista"
+    bonapartism_noun: "Bonapartismo"
+    bonapartism_desc: "El bonapartismo es la ideologia politica surgida de Napoleon Bonaparte y sus seguidores y sucesores. Despues de Napoleon, el termino se aplico a los politicos franceses que tomaron el poder en el Golpe del 18 Brumario, gobernando en el Consulado frances y posteriormente en el Primer y Segundo Imperio frances. El termino se ha utilizado de forma mas general para designar un movimiento politico que abogaba por una dictadura o un estado centralizado autoritario, con un lider carismatico y hombre fuerte basado en una retorica antielitista, el apoyo del ejercito y el conservadurismo. En terminos mas generales, bonapartismo puede utilizarse para describir la sustitucion del liderazgo civil por el militar en movimientos o gobiernos revolucionarios."
+  # Legitimists (Bourbonists)
+    legitimism: "Legitimista"
+    legitimism_noun: "Legitimismo"
+    legitimism_desc: "Los Legitimistas son realistas que se adherieron a los derechos de la sucesion dinastica de los descendientes de la corona francesa, pertenecientes a la rama mas vieja de la dinastia borbonica, que fue destronada en 1830 tras la revolucion de Julio. Ellos rechazarian la reclamacion sobre la Monarquia de Julio 1830-1848 que colocaria a Luis Felipe Duque de Orleans en el poder, hasta que fue destronado y llevado con su familia al exilio."
+  # Orleanists
+    orleanism: "Orleanista"
+    orleanism_noun: "Orleanismo"
+    orleanism_desc: "Los Orleanistas son aquellos que apoyan la monarquia constitucional encabezada por la Casa de Orleans. El Orleanismo se opuso a las otras 2 ramas del monarquismo; el legitimismo, consersvador y fiel a la rama mas antigua de la casa de borbon despues de 1830, y el bonapartismo que apoyaba el legado de Napoleon y sus herederos."
+  # Tribal
+    tribe: "Lider Tribal"
+    tribe_noun: "Gobernancia Tribal"
+    tribe_desc: "Los Gobiernos Tribales no tienen un poder central considerablemente fuerte, mas bien la gobernancia es organizada por consejos tribales locales.
+
+# Chauvinist
+ chauvinist_populism: "Chauvinista Popular"
+ chauvinist_populism_noun: "Chauvinismo Popular"
+ chauvinist_populism_desc: "Gobierno Chauvinista Popular"
+ chauvinist_populism_drift: "Apoyo diario al Chauvinismo popular"
+ chauvinist_populism_acceptance: "Aceptacion al Chauvinismo Popular"
+  # Fascism
+    fascism: "Fascista"
+    fascism_noun: "Fascismo"
+    fascism_desc: "El Fascismo es una forma de extrema derecha, autoritaria y ultranacionalista caracterizado por un poder dictatorial, suprimiendo a la oposicion, caracterizado por una fuerte regimentacion de la sociedad y la economia, se opone al liberalismo, la democracia, el marxismo y el anarquismo."
+  # Nazism
+    nazism: "Nacional Socialista" 
+    nazism_noun: "Nacional Socialismo"
+    nazism_desc: "Nazismo es una forma del fascismo, con un gran odio hacia la democracia liberal y el sistema parlamentario. Que incorpora un ferviente antisimetismo, anticomunismo, racismo, y el uso de la eutanasia en los grupos sociales reprimidos."
+  # Clericism
+    cleric_fascism: "Clericista"
+    cleric_fascism_noun: "Fascismo Clerical"
+    cleric_fascism_desc: "El Fascismo Clerical es una ideologia que combina las doctrinas economicas del fascismo el el clericalismo. El termino es usado para describir las organizaciones y movimientos que combinan elementos religiosos con el fascismo, recibe apoyo de organizaciones religiosas que simpatizan con el fascismo, o regimes fascistas en el que el clero desempeña un papel importante."
+  # Rexism
+    rexism: "Rexista"
+    rexism_noun: "Rexismo"
+    rexism_desc: "El Rexismo es un forma de extrema derecha catolica, nacionalista de ideologia autoritaria y corporatista que aboga por una renovacion moral de la sociedad mediante el dominio de la iglesia catolica, lo que formaria una sociedad corporativista y aboliendo la democracia liberal."
+  # Falangism
+    falangism: "Falangista"
+    falangism_noun: "Falangismo"
+    falangism_desc: "El Falangismo es una forma de fascismo que aboga por la unidad nacional, la eliminacion del separatismo regional, el establecimiento de una dictadura, y un modelo sindicalista economico."
+  # Francoism
+    francoism: "Franquista"
+    francoism_noun: "Franquismo"
+    francoism_desc: "El Franquismo son los principios y politicas por las que la dictadura española del general Francisco Franco abogaba."
+  # National Populist
+    national_populism: "Nacional Populista"
+    national_populism_noun: "Nacional Populismo"
+    national_populism_desc: "El Nacional Populismo es una ideologia politica que combina las politicas derechistas y la retorica y temas populistas. La retorica suele consistir en sentimientos antielitistas, la oposicion al establecimiento y dirigirse al pueblo llano.'"
+
+# Anarchism
+ anarchism: "Anarquista"
+ anarchism_noun: "Anarquismo"
+ anarchism_desc: "Gobierno Anarquista"
+ anarchism_drift: "Apoyo diario Anarquista"
+ anarchism_acceptance: "Aceptacion del Anarquismo"
+  # Egoism
+    egoism: "Egoista"
+    egoism_noun: "Egoismo"
+    egoism_desc: "El Egoismo, o anarco-egoismo es una escuela del anarquismo del pensamiento anarquista originado en la filosofia de Max Stirner filosofo existencialista del sigo XIX, cuyo nombre aparece regularmente en estudios historicos del pensamiento anarquista como uno de los primeros y mas conocidos exponentes del anarquismo individualista."
+  # Libertarianism
+    libertarianism: "Libertario"
+    libertarianism_noun: "Libertarianismo"
+    libertarianism-desc: "Libertarianismo es la creencia de que la sociedad debe maximizar la autonomia y libertad politica, enfatizando la libre asociacion, la libertad de eleccion, el individualismo y asociacion voluntaria."
+  # Mutualism
+    mutualism: "Mutualista"
+    mutualism_noun: "Mutualismo"
+    mutualism_desc: "El Mutualismo hace hincapie en la libertad y soberania del individuo. Concibe una sociedad en la que cada persona puede poseer un medio de produccion, ya sea individual o colectivamente, y en la que el comercio representa cantidades equivalentes de trabajo en el libre mercado."
+  # Anarcho-Capitalist
+    anarcho_capital: "Anarco Capitalista"
+    anarcho_capital_noun: "Anarco Capitalismo"
+    anarcho_capital_desc: "El anarcocapitalismo es una filosofia politica y una teoria economica que aboga por la eliminacion de los Estados centralizados en favor de un sistema de propiedad privada aplicado por organismos privados, mercados libres y la interpretacion libertaria de derechas de la autopropiedad, que amplia el concepto para incluir el control de la propiedad privada como parte del yo. En ausencia de estatuto, los anarcocapitalistas sostienen que la sociedad tiende a autorregularse contractualmente y a civilizarse mediante la participacion en el mercado libre, que describen como una sociedad voluntaria."
+
+# Fundamentalism
+ fundamentalism: "Fundamentalista"
+ fundamentalism_noun: "Fundamentalismo"
+ fundamentalism_desc: "Gobierno Fundamentalista"
+ fundamentalism_drift: "Apoyo diario al Fundamentalismo"
+ fundamentalism_acceptance: "Aceptacion al Fundamentalismo"
+  # Shogunate
+    shogunate: "Shogun"
+    shogunate_noun: "Shogunato"
+    shogunate_desc: "El Shogunato es una unica iteracion aristocratica feudalista unica de Japon. La Familia Imperial, que es el centro espiritual y la autoridad Japonesa, que mantiene una intervencion minima de la gobernanza, delegano la mayoria de las responsabilidades y la autoridad a las familias aristocraticas familias llamadas Han, mientras la cabeza del gobierno es el Shogun quien es la cabeza de la familia mas acomodada y rica de los Han."
+  # Shamanism
+    shamanism: "Chaman"
+    shamanism_noun: "Orientacion Chamanica"
+    shamanism_desc: "Los Chamanes actuan como consejeros entre el gobierno y se cree que tienen la habilidad de interactuar con el mundo espiritual. La estructura religiosa esta profundamente arraigada en la sociedad y los chamanes usualmente tratan de comunicarse con los espiritus y energias espirituales en el mundo psiquico, con la esperanza de fortalecer la nacion."
+  # Christian Fundamentalism
+    christian: "Fundamentalista Cristiano"
+    christian_noun: "Fundamentalismo Cristiano"
+    christian_desc: "El Fundamentalismo Cristiano cree que el Estado debe de ser gobernado en base a los ideales de una interpretacion literal de la Biblia."
+  # Islamic Fundamentalism
+    islamist: "Fundamentalista Islamico"
+    islamist_noun: "Fundamentalismo Islamico"
+    islamist_desc: "El Fundamentalismo Islamico cree que el Estado debe de ser gobernado en base a los ideales de una interpretacion literal del Coran."
+  # Mayan Rivalism
+    mayan_ideology: "Rival Maya"
+    mayan_ideology_noun: "Rivalismo Maya"
+    mayan_ideology_desc: "El Rivalismo Maya es un movimiento politico que mezcla la fe maya con los sentimientos anti-colonialistas para reforzar la idea de un ideal de un Estado Maya independiente."
+  # Other
+    other_ideology:
+    other_ideology_desc: ""
