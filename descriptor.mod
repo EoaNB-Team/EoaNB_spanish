@@ -2,7 +2,7 @@ version="1"
 tags={
 	"Translation"
 }
-name="EoaNB Spanish Translation"
+name="EoaNB Polish Translation"
 dependencies={
 	"EoaNB"
 }
